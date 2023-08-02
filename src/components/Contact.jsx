@@ -7,7 +7,7 @@ function Contact() {
         <Map
         height="450px" 
         width="660px"
- defaultState={{ center: [55.75, 37.57], zoom: 9 }} />
+ defaultState={{ center: [43.324675, 45.692376], zoom: 20 }} />
       </div>
     </YMaps>
   );
