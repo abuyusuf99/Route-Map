@@ -1,0 +1,32 @@
+.center{
+    text-align: center;
+    width: 550px;
+    margin: auto;
+    margin-top: 150px;
+}
+.center h1{
+    color: white;
+    font-size: 50px;
+}
+.center span{
+    color: white;
+    font-size: 20px;
+}
+.button{
+    width: 640px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+.button button{
+width: 150px;
+height: 50px;
+color: black;
+border-radius: 5px;
+border: none;
+cursor: pointer;
+font-size: 20px;
+font-weight: 600;
+
+}
